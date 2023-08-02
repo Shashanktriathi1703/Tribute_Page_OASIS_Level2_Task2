@@ -1,6 +1,6 @@
 # Tribute Page for Mahendra Singh Dhoni
 
-This is a tribute page for Mahendra Singh Dhoni, one of the greatest cricketers of all time. This page is dedicated to celebrating his incredible achievements and contributions to the sport of cricket.
+This is a tribute page for Mahendra Singh Dhoni, one of the greatest cricketers of all time. This page is dedicated to celebrating his incredible achievements and contributions to cricket.
 
 ## About Mahendra Singh Dhoni
 
@@ -15,7 +15,11 @@ This tribute page is designed to showcase the incredible career of Mahendra Sing
 Whether you are a die-hard fan of MS Dhoni or simply appreciate his contributions to the sport of cricket, this tribute page is a must-see. Explore his incredible journey from a small town in India to becoming one of history's most successful cricket captains.
 
 ## Demo
-![msd](https://github.com/Shashanktriathi1703/Tribute_Page_CODSOFT_Level2_Task1/assets/105815482/469c7b43-8696-471f-988f-135f5e3c9ca9)
+![msd](https://github.com/Shashanktriathi1703/Tribute_Page_OASIS_Level2_Task1/assets/105815482/196505cc-18ee-44ac-888a-1f0227cf5bd2)
+
 
 
 ## How to View the Tribute Page
+To view the tribute page for Mahendra Singh Dhoni, simply visit the following link: [http://127.0.0.1:5500/OIBSIP/Tribute_Page/Tribute_page.html]. The page is designed to be accessible on both desktop and mobile devices, so you can enjoy it from anywhere at any time.
+
+Thank you for visiting this tribute page and celebrating the incredible career of Mahendra Singh Dhoni.
